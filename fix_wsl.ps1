@@ -7,6 +7,9 @@
 #}
 
 # If WSL not running, stuck or something, try to run this script to prevent wsl stucking.
+# after you've restarted the computer, please, install https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
+# and run wsl --set-default-version 2
+# TODO: Create method to run code after window's reboot , and perform automatic downloading / installing and updating to wsl 2.
 
 Write-Host "Trying to fix wsl."
 
