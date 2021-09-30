@@ -5,4 +5,4 @@ use install_wsl.ps1 to enable and install wsl Ubuntu. After restart you can run 
 
 
 
-use win10key.vbs on Windows to extract activation license key.
+use win10key.vbs          on         Windows        to        extract      activation license key.
